@@ -1,5 +1,5 @@
 ## 使用方法
-`TCPServer.py`为服务端程序，运行前将变量`HOST`、'PORT'设置为你的服务器的IP和端口号。
+`TCPServer.py` 为服务端程序，运行前将变量 `HOST`、`PORT` 设置为你的服务器的IP和端口号。
 
 ## 腾讯云服务器信息
 
@@ -11,7 +11,7 @@
 
 TCP Server 绑定端口：`4464`
 
-使用腾讯云建立TCP Server时，服务端程序`TCPServer.py`的IP需绑定为内网IP，外网的TCP Client绑定外网IP，腾讯云有内部转发机制实现TCP报文转发。
+使用腾讯云建立TCP Server时，服务端程序 `TCPServer.py` 的IP需绑定为内网IP，外网的TCP Client绑定外网IP，腾讯云有内部转发机制实现TCP报文转发。
 
 ## 腾讯云不支持的端口
 
