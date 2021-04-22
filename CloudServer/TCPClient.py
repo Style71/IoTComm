@@ -1,8 +1,8 @@
 from socket import *
 from os import system
 
-SERVER_IP = 'localhost'
-#SERVER_IP = '43.129.87.211'
+#SERVER_IP = 'localhost'
+SERVER_IP = '43.129.87.211'
 SERVER_PORT = 4464
 SERVER_ADDR = (SERVER_IP, SERVER_PORT)
 
